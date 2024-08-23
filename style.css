@@ -1,0 +1,13 @@
+.navbar {
+    background: #292929 !important;
+}
+
+.bg-dark {
+    background: #202121 !important;
+}
+.navbar-logo {
+    width: auto;
+    height: 40px;
+    padding-top: 2px;   
+   
+}
